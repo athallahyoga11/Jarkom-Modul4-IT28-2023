@@ -97,6 +97,9 @@ Kemudian dilakukannya routing  terhadap subnet yang ingin dituju dengan mengisi 
 
 ![denken_static](https://cdn.discordapp.com/attachments/1067327620938747946/1181921167964131379/Screenshot_2023-12-06_at_18.32.38.png?ex=6582d0dd&is=65705bdd&hm=7748a7b2f5e21d9d01bd958fbc8e7947b94aff82b56f2cb68f6f27a0641fda1d&)
 
+3. Routing pada Aura menuju Client Royal Capital
+
+![denken_static](https://cdn.discordapp.com/attachments/1067327620938747946/1181921851979595797/Screenshot_2023-12-06_at_18.35.18.png?ex=6582d180&is=65705c80&hm=31e462154b693e8138d7fbb63c2c63e049cfef551b61e52583d8ebb57e4d765e&)
 
 
 Lakukan langkah subneting dan routing untuk seluruhnya sampai setiap PC atau Server dapat melakukan ping sampai ke Aura.
