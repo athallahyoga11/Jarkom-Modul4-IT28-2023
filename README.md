@@ -11,7 +11,7 @@
 
 
 ## Soal
-Berikut gambar topologi yang harus dibuat
+Di Bawah Ini Merupakan Topologi Yang Dibuat :
 
 ![topologiCPT](https://cdn.discordapp.com/attachments/1067327620938747946/1181917906729193493/Screenshot_2023-12-06_at_18.19.39.png?ex=6582cdd3&is=657058d3&hm=b803d6359510e6c6f9bcbee2eb27cb8006e5786a5a96eac0854221a9f230274b&)
 
@@ -30,7 +30,7 @@ Langkah pertama yaitu membuat tree IP seperti tabel berikut ini
 ![Screenshot 2023-11-28 235649](https://cdn.discordapp.com/attachments/1067327620938747946/1180540708927590410/Screenshot_2023-12-02_at_23.07.11.png?ex=657dcb36&is=656b5636&hm=b804b326fcf9502d14a7fd22ce55e469efdf974b762b14be93dd3cf25a31e2a2&)
 
 
-Setelah dilakukannya pembuatan tree, maka buatlah perhitungan pembagian IP tersebut seperti gambar berikut ini
+Setelah melakukan pembuatan tree, silahkan hitung pembagian IP sesuai dengan ilustrasi pada gambar.
 
 |Subnet	  |Rute Subnet	|Jumlah IP  |	Netmask| Network ID | IP Netmask | Broadcast |
 |---------|---------|---------|---------|---------|---------|---------|
@@ -47,14 +47,14 @@ Setelah dilakukannya pembuatan tree, maka buatlah perhitungan pembagian IP terse
 |A10|	Aura-Eisen-Switch1-Richter-Switch1-Revolte |3|	/29| 192.247.24.104 |	255.255.255.248 |	192.247.24.111|
 |A1|	Aura-Frieren |2|	/30| 192.247.24.112	| 255.255.255.252 |	192.247.24.115|
 |A3|	Aura-Frieren-Flamme	|2|	/30| 192.247.24.116	255.255.255.252	192.247.24.119|
-|A4|	Aura-Frieren-Flamme-Fern	|2|	/30| 192.247.24.120	255.255.255.252	192.247.24.123|
-|A7|	Aura-Frieren-Flamme-Himmel	|2|	/30| 192.247.24.124	255.255.255.252	192.247.24.127|
+|A4|	Aura-Frieren-Flamme-Fern	|2|	/30| 192.247.24.120 | 255.255.255.252 |	192.247.24.123|
+|A7|	Aura-Frieren-Flamme-Himmel	|2|	/30| 192.247.24.124	| 255.255.255.252	| 192.247.24.127|
 |A9|	Aura-Eisen	|2|	/30| 192.247.24.128	| 255.255.255.252	| 192.247.24.131|
 |A11|	Aura-Eisen-Switch0-Stark	|2|	/30| 192.247.24.132 |	255.255.255.252	| 192.247.24.135|
 |A12|	Aura-Eisen-Lugner	|2|	/30| 192.247.24.136 |	255.255.255.252	| 192.247.24.139|
 |A15|	Aura-Eisen-Linie	|2|	/30| 192.247.24.140 |	255.255.255.252	| 192.247.24.143|
 |A16|	Aura-Eisen-Linie-Lawine	|2|	/30| 192.247.24.144	| 255.255.255.252 |	192.247.24.147|
-|A20|	Aura-Denken	|2|	/30| |192.247.24.148 |	255.255.255.252 |	192.247.24.151|
+|A20|	Aura-Denken	|2|	/30| 192.247.24.148 |	255.255.255.252 |	192.247.24.151|
 
 Setelah dilakukannya pembagian IP, maka mulai membuat topologi menggunakan Cisco Packet Tracer (CPT) seperti gambar berikut
 
