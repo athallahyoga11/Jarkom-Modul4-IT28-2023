@@ -46,7 +46,7 @@ Setelah melakukan pembuatan tree, silahkan hitung pembagian IP sesuai dengan ilu
 |A8|	Aura-Frieren-Flamme-Himmel-Switch6-SchwerMountains |6|	/29| 192.247.24.96 |	255.255.255.248 |	192.247.24.103|
 |A10|	Aura-Eisen-Switch1-Richter-Switch1-Revolte |3|	/29| 192.247.24.104 |	255.255.255.248 |	192.247.24.111|
 |A1|	Aura-Frieren |2|	/30| 192.247.24.112	| 255.255.255.252 |	192.247.24.115|
-|A3|	Aura-Frieren-Flamme	|2|	/30| 192.247.24.116	255.255.255.252	192.247.24.119|
+|A3|	Aura-Frieren-Flamme	|2|	/30| 192.247.24.116 |	255.255.255.252	| 192.247.24.119|
 |A4|	Aura-Frieren-Flamme-Fern	|2|	/30| 192.247.24.120 | 255.255.255.252 |	192.247.24.123|
 |A7|	Aura-Frieren-Flamme-Himmel	|2|	/30| 192.247.24.124	| 255.255.255.252	| 192.247.24.127|
 |A9|	Aura-Eisen	|2|	/30| 192.247.24.128	| 255.255.255.252	| 192.247.24.131|
